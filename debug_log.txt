@@ -1,0 +1,9 @@
+mv_lines CRS: EPSG:32628
+mv_lines feats: 69167
+mv_lines xmin:1.7976931348623157e+308 xmax:inf ymin:1.7976931348623157e+308 ymax:inf
+SLE_adm2 CRS: EPSG:32628
+SLE_adm2 feats: 14
+SLE_adm2 xmin:686474.053640248 xmax:1021735.91394549 ymin:766101.45341365 ymax:1107854.15914507
+mv first feat geom type: 1 | wkbType: 5 | length: nan
+adm2 first feat geom type: 2 | area: 4170779065.895115
+clipped feats: 0 | CRS: EPSG:32628
